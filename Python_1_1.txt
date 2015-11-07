@@ -1,0 +1,19 @@
+1. What are the six main reasons that people choose to use Python?
+    1.软件质量。python代码的可读性、复用性等较好。
+    2.开发效率。python代码运行更快、debug更少、维护更少。
+    3.程序可移植。python支持多操作系统，代码可以在不同环境下进行开发。
+    4.运行库。python支持实现多种功能的库函数，而且可以扩展。
+    5.组件可扩展。python可以支持调用C/C++/java等多种语言的库函数，集成多种框架等。
+    6.使用方便。
+2. Name four notable companies or organizations using Python today.
+    Google、Maya、NASA、YouTube
+3. Why might you not want to use Python in an application?
+    处理速度有时不如编译语言如C/C++
+4. What can you do with Python?
+    编程开发，包括游戏开发、网页编程等几乎所有需要电脑的事情。
+5. What’s the significance of the Python import this statement?
+    一个设计彩蛋，可以用于触发显示python的设计宗旨。
+6. Why does “spam” show up in so many Python examples in books and on the Web?
+    参考自一个小品（话剧），维京人关于Spam的大合唱淹没了餐厅的点菜声。。。也是python脚本常见的变量名、
+7. What is your favorite color?
+    天蓝色
