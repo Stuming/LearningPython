@@ -1,0 +1,2 @@
+CPython、Jython以及IronPython有什么不同？
+CPython是Python语言的标准实现。Jython和IronPython分别是Python程序的Java和.NET的实现；它们都是Python的编译器的替代实现。
