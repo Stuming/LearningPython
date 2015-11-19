@@ -1,7 +1,0 @@
-﻿1. What are the six main reasons that people choose to use Python?
-    1.软件质量。python代码的可读性、复用性等较好。
-    2.开发效率。python代码运行更快、debug更少、维护更少。
-    3.程序可移植。python支持多操作系统，代码可以在不同环境下进行开发。
-    4.运行库。python支持实现多种功能的库函数，而且可以扩展。
-    5.组件可扩展。python可以支持调用C/C++/java等多种语言的库函数，集成多种框架等。
-    6.使用方便。
