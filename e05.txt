@@ -1,2 +1,0 @@
-﻿5. What’s the significance of the Python import this statement?
-    一个设计彩蛋，可以用于触发显示python的设计宗旨。
