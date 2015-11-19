@@ -1,0 +1,2 @@
+3. Why might you not want to use Python in an application?
+    处理速度有时不如编译语言如C/C++
