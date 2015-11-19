@@ -1,2 +1,2 @@
-5. What¡¯s the significance of the Python import this statement?
-    Ò»¸öÉè¼Æ²Êµ°£¬¿ÉÒÔÓÃÓÚ´¥·¢ÏÔÊ¾pythonµÄÉè¼Æ×ÚÖ¼¡£
+ï»¿5. Whatâ€™s the significance of the Python import this statement?
+    ä¸€ä¸ªè®¾è®¡å½©è›‹ï¼Œå¯ä»¥ç”¨äºè§¦å‘æ˜¾ç¤ºpythonçš„è®¾è®¡å®—æ—¨ã€‚

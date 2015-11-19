@@ -1,2 +1,2 @@
-3. Why might you not want to use Python in an application?
-    ´¦ÀíËÙ¶ÈÓĞÊ±²»Èç±àÒëÓïÑÔÈçC/C++
+ï»¿3. Why might you not want to use Python in an application?
+    å¤„ç†é€Ÿåº¦æœ‰æ—¶ä¸å¦‚ç¼–è¯‘è¯­è¨€å¦‚C/C++

@@ -1,2 +1,2 @@
-6. Why does ��spam�� show up in so many Python examples in books and on the Web?
-    �ο���һ��СƷ�����磩��ά���˹���Spam�Ĵ�ϳ���û�˲����ĵ����������Ҳ��python�ű������ı�������
+﻿6. Why does “spam” show up in so many Python examples in books and on the Web?
+    参考自一个小品（话剧），维京人关于Spam的大合唱淹没了餐厅的点菜声。。。也是python脚本常见的变量名。
