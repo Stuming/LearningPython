@@ -1,2 +1,0 @@
-﻿4. What can you do with Python?
-    编程开发，包括游戏开发、网页编程等几乎所有需要电脑的事情。
