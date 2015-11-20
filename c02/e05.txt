@@ -1,2 +1,2 @@
 请列出两个Python标准执行模块的变体的名字。
-Psyco、Shedskin以及forzen binaries是执行模块的所有变体。
+Psyco、Shedskin以及forzen binaries都是执行模块的变体。
