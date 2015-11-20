@@ -1,2 +1,3 @@
 请例举如今正在使用Python的四个著名的公司和组织的名称。
-Industrial Light & Magic、EVE Online、Jet Propulsion Labs、Maya和ESRI等。做软件开发的所有组织几乎都流行使用Python，无论是长期战略产品开发还是测试或是系统管理这样的短期策略任务都广泛采用了Python。
+Industrial Light & Magic、EVE Online、Jet Propulsion Labs、Maya和ESRI等。
+做软件开发的所有组织几乎都流行使用Python，无论是长期战略产品开发还是测试或是系统管理这样的短期策略任务都广泛采用了Python。

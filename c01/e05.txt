@@ -1,2 +1,2 @@
 在Python中import this有什么意义？
-Import this会触发Python内部的一个彩蛋，他将显示Python语言层面之下的设计哲学。
+Import this会触发Python内部的一个彩蛋，他将显示Python语言层面之下的设计理念。
