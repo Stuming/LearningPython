@@ -1,3 +1,3 @@
 怎样才能开始一个交互式解释器的会话？
-Windows下可以通过选择安装好的Python应用程序来开始交互式会话（command line或者IDLE），利用cmd输入python指令也可以实现。
+Windows下可以通过选择安装好的Python应用程序来开始交互式会话（command line或者IDLE），利用cmd输入python指令也可以实现;
 Linux等系统可以通过终端等输入命令行的地方输入Python指令进行交互式会话。
