@@ -18,5 +18,3 @@ print("下面是三种方法求X的平方的结果")
 print(math.pow(X,2))
 print(pow(X,2))
 print(X**2)
-
-input() # 控制台下显示才使用这行，防止一闪而过看不到执行结果

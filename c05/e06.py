@@ -14,5 +14,3 @@ print("int(X):%f" % int(X))
 print("math.trunc(X):%f" % math.trunc(X))
 print("round(X):%f" % round(X))
 print("math.floor(X):%f" % math.floor(X))
-
-input() # 控制台下显示才使用这行，防止一闪而过看不到执行结果

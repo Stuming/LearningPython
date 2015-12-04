@@ -13,5 +13,3 @@ print("int('0b11111111',2)=%d" % int("0b11111111",2))
 print("eval('0o377')=%d" % eval("0o377"))
 print("eval('0xff')=%d" % eval("0xff"))
 print("eval('0b11111111')=%d" % eval("0b11111111"))
-
-input() # 控制台下显示才使用这行，防止一闪而过看不到执行结果

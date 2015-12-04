@@ -12,5 +12,3 @@ X=2
 print("float(X):%s, type:%s" % (float(X), type(float(X))))
 print("(X+0.0):%s, type:%s" % (X+0.0, type(X+0.0)))
 print("(X/1):%s, type:%s" % (X/1, type(X/1)))
-
-input() # 控制台下显示才使用这行，防止一闪而过看不到执行结果
