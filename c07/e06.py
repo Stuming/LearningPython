@@ -9,6 +9,6 @@
 # 代码验证：
 S = "a\nb\x1f\000d"
 print("字符串\"a\\nb\\x1f\\000d\"中字符数：",len(S))
-print("字符串\"a\\nb\\x1f\\000d\"子字符的ASCII码依次为：")
+print("字符串\"a\\nb\\x1f\\000d\"子字符及对应的ASCII码依次为：")
 for k in range(len(S)):
-    print(ord(S[k])," ",end='')
+    print(S[k],ord(S[k]))  #显示子字符及ASCII码
