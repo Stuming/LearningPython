@@ -1,0 +1,24 @@
+#! /usr/bin/python3
+# -*- coding:utf8 -*-
+
+'''
+问：举出四种在原处修改列表对象的运算。
+答：这里给出四种，1.对索引的赋值；2.元素插入方法；3.列表翻转方法；4.元素添加方法
+'''
+
+#代码验证：
+L=[1, 3, 5]
+print("列表的初始值：", L)
+
+L[2]=4
+print("经L[2]=4修改后：", L)
+
+L.insert(1, 2)
+print("经L.insert(1, 2)修改后：", L)
+
+L.reverse()
+print("经L.reserve()修改后：", L)
+
+L.append(0)
+print("经L.append(0)修改后：", L)
+
