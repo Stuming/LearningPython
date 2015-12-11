@@ -11,13 +11,13 @@ D={'a':0, 'c':3}
 print("字典的初始值", D)
 
 D['c']=2
-print("经D['c']=2修改后：", D)
+print("经D['c']=2修改后：", D,"  旧键赋值")
 
 D['b']=1
-print("经D['b']=1修改后：", D)
+print("经D['b']=1修改后：", D,"  新键赋值")
 
 del D['c']
-print("经del D['c']修改后：", D)
+print("经del D['c']修改后：", D,"  删除键的元素")
 
 D.update({'d':3})
-print("经D.update({'d':3})修改后：", D)
+print("经D.update({'d':3})修改后：", D,"  update()方法")
