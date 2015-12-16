@@ -7,7 +7,7 @@
 '''
 
 # 示例代码
-log=open('log.txt','w') # 创建log.txt 可读写
+log=open('log.txt','w') # 创建log.txt 可写
 print(1,2,3,file=log)   # 向log发文本
 log.close()
 print(open('log.txt').read())
