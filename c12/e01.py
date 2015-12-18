@@ -7,7 +7,7 @@
 '''
 
 # 示例代码
-choice='c'
+choice=input("input a choice(a/b/c/other):")
 
 #if...elif...else
 if choice=='a':
