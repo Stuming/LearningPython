@@ -15,5 +15,5 @@ for i in "a bc":
     if i==' ':
         continue
     print(i, end='')
-
 print()
+
