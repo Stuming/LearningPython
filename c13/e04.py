@@ -13,8 +13,8 @@ i=0
 while i<len(X):
     print(X[i], end=' ')
     i+=1
-# print()
+print()
 
 for i in range(len(X)):
     print(X[i], end=' ')
-# print()
+print()
