@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+# -*- coding:utf8 -*-
 
 '''
 举出Python可能载入的能够响应import操作的四种文件类型。
