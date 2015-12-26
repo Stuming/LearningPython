@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+# -*- coding:utf8 -*-
 
 '''
 map调用和list comprehension有什么关系？比较并对比两者。
