@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+# -*- coding:utf8 -*-
 
 '''
 为什么需要设置PYTHONPATH环境变量？
