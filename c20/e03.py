@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+# -*- coding:utf8 -*-
 
 '''
 如何分辨函数是否为生成器函数？

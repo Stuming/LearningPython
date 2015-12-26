@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+# -*- coding:utf8 -*-
 
 '''
 生成器和迭代器有什么关系？
